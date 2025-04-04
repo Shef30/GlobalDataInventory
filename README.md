@@ -1,9 +1,13 @@
 📈 Global Data Inventory SQL Analysis
     ▪ The project repository consists of a .csv file and a .sql file.
+    
     ▪ The .csv file consists of all the raw data required to analyse the desired information.
+    
 
 🎯 Problem Statement
+
    A set of questions have been mentioned in order to analyse:-
+   
     1. Which Product Category is Leading with how much stock ?
     2. What is the average price with respect to Product Category ?
     3. Which Product Category is close to expiry date with how much stock and its product tag ?
